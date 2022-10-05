@@ -1,0 +1,10 @@
+.exemple{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width:100px;
+background: teal;
+margin:100px;
+padding:100px;
+}
